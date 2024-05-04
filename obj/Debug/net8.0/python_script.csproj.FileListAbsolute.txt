@@ -1,0 +1,15 @@
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\bin\Debug\net8.0\python_script.exe
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\bin\Debug\net8.0\python_script.deps.json
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\bin\Debug\net8.0\python_script.runtimeconfig.json
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\bin\Debug\net8.0\python_script.dll
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\bin\Debug\net8.0\python_script.pdb
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\obj\Debug\net8.0\python_script.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\obj\Debug\net8.0\python_script.AssemblyInfoInputs.cache
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\obj\Debug\net8.0\python_script.AssemblyInfo.cs
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\obj\Debug\net8.0\python_script.csproj.CoreCompileInputs.cache
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\obj\Debug\net8.0\python_script.sourcelink.json
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\obj\Debug\net8.0\python_script.dll
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\obj\Debug\net8.0\refint\python_script.dll
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\obj\Debug\net8.0\python_script.pdb
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\obj\Debug\net8.0\python_script.genruntimeconfig.cache
+C:\Users\bshah\OneDrive\Desktop\python_script_repo\python_script\obj\Debug\net8.0\ref\python_script.dll
